@@ -17,7 +17,7 @@ Se identifico 3 sensores, então se escolhio:
 - Descrição técnica dos sensores: (Apresentar os dados técnicos incluindo as características apresentadas no curso.)
 Características:
 Polar H7 Heart Rate Sensor:
-![alt text](https://github.com/caiki/IOT-PROJECT/technical-specification.png)
+![alt text](https://github.com/caiki/IOT-PROJECT/blob/master/technical-specification.png)
 
 ## Open-design (extra)
 (Apresentar o design técnico do projeto utilizando alguma ferramenta de diagrama ou mesmo um desenho à mão. Sugestão de ferramentas: Draw.io, Fritzing.org, Gimp.)
