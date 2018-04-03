@@ -15,7 +15,8 @@ Sensores de Batimentos Cardiacos: Para o desenvolvimento deste projeto se identi
 2) Polar H7 Heart Rate Sensor.
 3) Heart Rate Monitor Galaxy Note 4.
 
-Se escolhio a opção 2, porque segun alguns estudos realizados em laboratório demonstram que esse modelo apresenta precisão suficiente para capturar a variabilidade cardiaca e pela facilidade da captura dos dados desde outros dispositivos. Outra vantagem é que ele captura os dados na ordem dos milissegundos o que vai permitir obter mais cantidade dos dados.
+Se escolhio a opção 2, porque segun alguns estudos realizados em laboratório demonstram que esse modelo apresenta precisão suficiente para capturar a variabilidade cardiaca e pela facilidade da captura dos dados desde outros dispositivos. Outra vantagem é que ele captura os dados na ordem dos milissegundos o que vai permitir obter mais cantidade dos dados, porque ele pode capturar dados enquanto faz outras atividades.
+![alt text](https://github.com/caiki/IOT-PROJECT/blob/master/sensor.png)
 
 - Características do Polar H7 Heart Rate Sensor:
 O sensor de frequência cardíaca Polar H7 é compatível com dispositivos Bluetooth® Smart Ready(bluetooth low energy) que suportam o serviço de frequência cardíaca,  permitindo sua captura em qualquer computador ou telefone celular.
@@ -24,5 +25,6 @@ O sensor de frequência cardíaca Polar H7 é compatível com dispositivos Bluet
 
 # Descrição da arquitetura
 1) Criar um aplicativo de captura de dados pode ser para um smartphone ou um computador. 
-2) Criar os métodos de transformação de informacão: Aqui se pode usar a técnica de ETL (Extração, Transformação e Carga) para a limpeza e ordenamento dos dados, para logo criar o banco de dados dos batimentos cardiacos ordenados pelas distintas emoções básicas (Medo, alegria, tristeza e raiva).
-3) Análise da informação: Utilização técnicas de Aprendizajem de Maquina, entre eles os algoritmos de Aprendizajem Supervisado para identificar a que tipo de emoção corresponde a nova data capturada ou possivelmente técnicas de Análise de Series Temporais porque os dados estaram em função do tempo também.
+2) Criar os métodos da recoleção dos dados: Definir as actividades onde os dados vão ser capturados.
+3) Criar os métodos de transformação de informacão: Aqui se pode usar a técnica de ETL (Extração, Transformação e Carga) para a limpeza e ordenamento dos dados, para logo criar o banco de dados dos batimentos cardiacos ordenados pelas distintas emoções básicas (Medo, alegria, tristeza e raiva).
+4) Análise da informação: Utilização técnicas de Aprendizajem de Maquina, entre eles os algoritmos de Aprendizajem Supervisado para identificar a que tipo de emoção corresponde a nova sinal capturada ou possivelmente técnicas de Análise de Series Temporais porque os dados estaram em função do tempo também.
