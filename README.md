@@ -47,3 +47,4 @@ O sensor de frequência cardíaca Polar H7 é compatível com dispositivos Bluet
 - https://w3.psychology.su.se/staff/sws/Wiens00_heartbeatemotion.pdf
 - https://www.sciencedirect.com/science/article/pii/S0165178116312550
 - https://www.researchgate.net/publication/282918150_Emotion_recognition_based_on_heart_rate_and_skin_conductance
+- https://www.sciencedirect.com/science/article/pii/S1877050917316745
