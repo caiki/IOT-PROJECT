@@ -39,8 +39,7 @@ O sensor de frequência cardíaca Polar H7 é compatível com dispositivos Bluet
 ![alt text](https://github.com/caiki/IOT-PROJECT/blob/master/Service-Characteristic.png)
 
 # Algumas características da leitura de um eletrocardiograma.
-- Intervalo RR
-O Intervalo RR é a distância entre duas ondas R sucessivas (incluindo uma onda R). Em Ritmo Sinusal o intervalo RR deve ser constante.O intervalo RR é medido desde o início de uma onda R até o início da próxima R. Seu duração depende da Frequência Cardíaca.Em eletrocardiogramas com ritmo regular pode ser calculado sabendo o valor da frequência cardíaca.
+- Intervalo RR: É a distância entre duas ondas R sucessivas (incluindo uma onda R). Em Ritmo Sinusal o intervalo RR deve ser constante.O intervalo RR é medido desde o início de uma onda R até o início da próxima R. Seu duração depende da Frequência Cardíaca.Em eletrocardiogramas com ritmo regular pode ser calculado sabendo o valor da frequência cardíaca.
 - Onda Q: Se a primeira onda do complexo QRS é negativa, ele se denomina onda Q.
 - Onda R: É a primeira onda positiva do complexo QRS, pode ser precedida por uma onda negativa (onda Q) ou não. Se o complexo QRS tivesse outra onda positiva esta é chamada R'.
 - Onda S: É a onda negativa que aparece após da onda R.
