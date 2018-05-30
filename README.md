@@ -35,6 +35,19 @@ O sensor de frequência cardíaca Polar H7 é compatível com dispositivos Bluet
 
 ![alt text](https://github.com/caiki/IOT-PROJECT/blob/master/technical-specification.png)
 
+- Serviço de frequência cardíaca oferecido pelo sensor:
+![alt text](https://github.com/caiki/IOT-PROJECT/blob/master/Service-Characteristic.png)
+
+# Algumas características da leitura de um eletrocardiograma.
+- Intervalo RR
+O Intervalo RR é a distância entre duas ondas R sucessivas (incluindo uma onda R). Em Ritmo Sinusal o intervalo RR deve ser constante.O intervalo RR é medido desde o início de uma onda R até o início da próxima R. Seu duração depende da Frequência Cardíaca.Em eletrocardiogramas com ritmo regular pode ser calculado sabendo o valor da frequência cardíaca.
+- Onda Q: Se a primeira onda do complexo QRS é negativa, ele se denomina onda Q.
+- Onda R: É a primeira onda positiva do complexo QRS, pode ser precedida por uma onda negativa (onda Q) ou não. Se o complexo QRS tivesse outra onda positiva esta é chamada R'.
+- Onda S: É a onda negativa que aparece após da onda R.
+- Onda QS: Quando um complexo é completamente negativo, sem a presença de uma onda positiva, se denomina QS. Geralmente é um sinal de necrose miocárdica.
+- Ondas R' y S': Quando há mais de uma unda R ou mais de uma onda S, são chamadas R’ e S'
+![alt text](https://github.com/caiki/IOT-PROJECT/blob/master/ekg-waves.png)
+
 # Descrição da arquitetura
 1) Criar um aplicativo de captura de dados pode ser para um smartphone ou um computador. 
 2) Criar os métodos da recoleção dos dados: Definir as actividades onde os dados vão ser capturados.
@@ -48,3 +61,7 @@ O sensor de frequência cardíaca Polar H7 é compatível com dispositivos Bluet
 - https://www.sciencedirect.com/science/article/pii/S0165178116312550
 - https://www.researchgate.net/publication/282918150_Emotion_recognition_based_on_heart_rate_and_skin_conductance
 - https://www.sciencedirect.com/science/article/pii/S1877050917316745
+- https://www.silabs.com/documents/login/application-notes/AN983.pdf
+- http://pt.my-ekg.com/como-ler-ecg/ritmo-cardiaco.html
+- http://pt.my-ekg.com/generalidades-ecg/ondas-eletrocardiograma.html
+- https://www.bluetooth.org/docman/handlers/downloaddoc.ashx?doc_id=239866
