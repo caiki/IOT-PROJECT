@@ -64,3 +64,4 @@ O sensor de frequência cardíaca Polar H7 é compatível com dispositivos Bluet
 - http://pt.my-ekg.com/como-ler-ecg/ritmo-cardiaco.html
 - http://pt.my-ekg.com/generalidades-ecg/ondas-eletrocardiograma.html
 - https://www.bluetooth.org/docman/handlers/downloaddoc.ashx?doc_id=239866
+- https://www.physionet.org/physiobank/database/#ecg
